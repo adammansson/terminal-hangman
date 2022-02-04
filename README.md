@@ -1,2 +1,2 @@
 # terminal-hangman
-hangman written in scala
+Hangman game written in Scala.
